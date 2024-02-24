@@ -12,3 +12,11 @@ int main()
     printf("Size of char: %lu\n", sizeof(c));
     return 0;
 }
+
+/*
+Size of int: 4
+Size of float: 4
+Size of double: 8
+Size of char: 1
+
+*/
