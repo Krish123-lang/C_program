@@ -14,3 +14,9 @@ int main()
     printf("Product of %f and %f: %f", n1, n2, n1 * n2);
     return 0;
 }
+
+/*
+Enter first number: 5
+Enter first number: 3
+Product of 5.000000 and 3.000000: 15.000000
+*/
