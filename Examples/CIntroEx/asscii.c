@@ -9,3 +9,7 @@ int main()
     printf("ASCII of %c = %d", c, c);
     return 0;
 }
+/*
+Enter a character: a
+ASCII of a = 97
+*/
