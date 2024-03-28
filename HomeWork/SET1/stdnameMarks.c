@@ -40,7 +40,7 @@ int main()
     printf("\nStudent's Name: %s\n", name);
     printf("Total Marks: %d\n", totalMarks);
     printf("Percentage: %.2f%%\n", percentage);
-
+    
     // Determine class of result
     if (percentage >= 90)
         printf("Class: Distinction\n");
